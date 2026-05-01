@@ -1,10 +1,3 @@
-Optimizing tool selection...Reviewing the repository files to craft an accurate README.
-
-Read [](file:///c%3A/Users/Bhavya%20Chandrika/PhishingApp/phishing_detection.py)
-
-Read [](file:///c%3A/Users/Bhavya%20Chandrika/PhishingApp/README.md)
-
-Read [](file:///c%3A/Users/Bhavya%20Chandrika/PhishingApp/app.py)
 
 ## PhishingApp
 
